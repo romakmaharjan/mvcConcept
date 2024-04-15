@@ -1,0 +1,15 @@
+{
+  "name": "admin/mvcphp",
+  "autoload": {
+    "psr-4": {
+      "Application\\": "../mvcphp"
+    }
+  },
+  "authors": [
+    {
+      "name": "romak maharjan",
+      "email": "romakmaharjan@gmail.com"
+    }
+  ],
+  "require": {}
+}
